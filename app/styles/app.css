@@ -1,0 +1,8 @@
+.sign-up__avatar {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 100px;
+  max-height: 100px;
+  cursor: pointer;
+}
